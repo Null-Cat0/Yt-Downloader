@@ -26,3 +26,8 @@ To ensure the proper functioning of Yt-Downloader, you need to install the follo
     ```bash
     python -m pip install flask
     ```
+- **pytubefix**: This library is used for handling YouTube video downloads and is a modified version of `pytube` that fixes issues related to changes in YouTube’s API.
+
+    ```bash
+    python -m pip install pytubefix
+    ```
